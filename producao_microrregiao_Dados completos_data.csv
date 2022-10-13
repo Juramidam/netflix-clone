@@ -1,0 +1,474 @@
+﻿UF;Microrregião;Variável;Quartel;Ano;Nível;Território;Produto;Produtividade (Área Colhida);Qtde Produzida;Área Colhida;Área Plantada
+RO;Porto Velho;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;64,701834862;14105;218;229
+BA;Vitória da Conquista;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;51,397276265;132091;2570;2715
+BA;Ilhéus-Itabuna;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;42,837750485;66270;1547;1547
+BA;Porto Seguro;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;62,281434155;3138922;50399;50399
+CE;Sobral;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;25,3125;405;16;16
+CE;Ipu;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;24,209677419;4503;186;186
+CE;Chorozinho;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;26,309523810;1105;42;42
+CE;Sertão de Inhamuns;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;25,35;1014;40;40
+CE;Baixo Jaguaribe;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;67,750357995;141937;2095;2095
+CE;Iguatu;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;19,285714286;675;35;35
+CE;Lavras da Mangabeira;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;17,8;1780;100;100
+CE;Brejo Santo;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;28,5;399;14;14
+PB;Sousa;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;24,342105263;1850;76;88
+PB;Itaporanga;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;37,776119403;5062;134;134
+PB;Cariri Ocidental;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;34;68;2;2
+PE;Salgueiro;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;30;300;10;25
+PE;Pajeú;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;21,688524590;13230;610;615
+PE;Vale do Ipojuca;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;42,5;27200;640;640
+PE;Garanhuns;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;26,296296296;7100;270;270
+PI;Alto Médio Canindé;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;20;80;4;4
+RN;Macaíba;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;70,291970803;625950;8905;8905
+SE;Baixo Cotinguiba;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;45,684271436;868458;19010;19010
+MA;Rosário;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;40,4375;647;16;16
+MA;Baixada Maranhense;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;53,130434783;3666;69;69
+MA;Alto Mearim e Grajaú;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;51,917647059;35304;680;680
+MA;Baixo Parnaíba Maranhense;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;39,268041237;7618;194;194
+MA;Chapadinha;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;28,744881890;18253;635;635
+MA;Gerais de Balsas;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;21,521739130;495;23;23
+PI;Bertolínia;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;36,666666667;220;6;6
+AP;Macapá;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;34,545454545;4560;132;135
+PA;Furos de Breves;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;20;60;3;3
+PA;Paragominas;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;71,2;890000;12500;12500
+AC;Sena Madureira;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;30,891891892;2286;74;74
+AM;Parintins;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;48,212121212;3182;66;66
+AM;Madeira;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;49,090909091;540;11;11
+RO;Alvorada D'Oeste;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;68,142857143;954;14;14
+RO;Cacoal;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;70,158422691;202828;2891;2944
+TO;Gurupi;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;41,1;822;20;20
+TO;Jalapão;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;43,149606299;5480;127;127
+MG;Paracatu;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;83,573525124;4299440;51445;51445
+MG;Pirapora;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;47,363057325;74360;1570;1570
+MG;Montes Claros;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;40,372474747;319750;7920;7920
+MG;Bocaiúva;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;33,399014778;135600;4060;4060
+MG;Diamantina;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;51,989715190;65715;1264;1264
+MG;Capelinha;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;37,335870599;78480;2102;2102
+MG;Araçuaí;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;38,054474708;97800;2570;2570
+MG;Almenara;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;46,071926999;85832;1863;1863
+MG;Nanuque;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;50,900492611;309984;6090;6090
+MG;Patrocínio;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;75,686888454;77352;1022;1022
+MG;Conceição do Mato Dentro;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;52,485333333;98410;1875;1875
+MG;Conselheiro Lafaiete;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;55,996031746;28222;504;504
+MG;Campo Belo;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;73,245778612;78080;1066;1066
+MG;Varginha;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;62,839506173;15270;243;243
+MG;Viçosa;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;63,282191781;115490;1825;1825
+MG;Ubá;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;67,068580542;168208;2508;2508
+MG;Alfenas;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;82,143354695;589625;7178;7178
+MG;Santa Rita do Sapucaí;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;67,206896552;29235;435;435
+MG;Uberaba;Quantidade Produzida;Q3;2016;BRASIL;BRASIL;Cana-de-Açúcar;82,507979705;17220818;208717;208717
+SP;Bauru;Quantidade Produzida;Q3;2016;BRASIL;BRASIL;Cana-de-Açúcar;77,882867293;11926515;153134;153134
+TO;Miracema do Tocantins;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;79,903359411;347260;4346;4346
+TO;Rio Formoso;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;37,631147541;4591;122;122
+MG;Salinas;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;47,471531490;408540;8606;8606
+MG;Teófilo Otoni;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;58,881446752;175820;2986;2986
+MG;Lavras;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;79,842696629;35530;445;445
+MG;Cataguases;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;68,709468223;52975;771;771
+MG;Uberlândia;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;82,572840791;5237265;63426;63426
+PR;Jaguariaíva;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;62,272727273;1370;22;22
+GO+DF;Vale do Rio dos Bois;Quantidade Produzida;Q2;2016;BRASIL;BRASIL;Cana-de-Açúcar;82,165171269;8287590;100865;100865
+MS;Cassilândia;Quantidade Produzida;Q2;2016;BRASIL;BRASIL;Cana-de-Açúcar;69,287103113;6029433;87021;87021
+MG;Ituiutaba;Quantidade Produzida;Q2;2016;BRASIL;BRASIL;Cana-de-Açúcar;67,100160686;6263800;93350;95685
+GO+DF;Meia Ponte;Quantidade Produzida;Q3;2016;BRASIL;BRASIL;Cana-de-Açúcar;81,845782603;18620734;227510;227510
+MG;Frutal;Quantidade Produzida;Q3;2016;BRASIL;BRASIL;Cana-de-Açúcar;79,857654810;16980213;212631;212831
+SP;Jaú;Quantidade Produzida;Q3;2016;BRASIL;BRASIL;Cana-de-Açúcar;82,164136518;17968968;218696;218696
+RS;Três Passos;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;41,540925267;35019;843;843
+RS;Frederico Westphalen;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;37,809336333;67225;1778;1778
+RS;Passo Fundo;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;29,5;2832;96;96
+RS;Não-Me-Toque;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;40,735294118;2770;68;68
+RS;Santiago;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;28,911764706;14745;510;510
+RS;Restinga Seca;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;41,137254902;10490;255;255
+RS;Gramado-Canela;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;42,930568079;47610;1109;1109
+RS;Serras de Sudeste;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;30;120;4;4
+RS;Pelotas;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;20;100;5;5
+SP;Ribeirão Preto;Quantidade Produzida;Q4;2016;BRASIL;BRASIL;Cana-de-Açúcar;76,423665333;24567610;321466;321466
+SP;Araraquara;Quantidade Produzida;Q4;2016;BRASIL;BRASIL;Cana-de-Açúcar;81,349481548;23324442;286719;286719
+RS;Santa Cruz do Sul;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;27,606683805;21478;778;778
+RS;Lajeado-Estrela;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;46,056358382;63742;1384;1384
+RS;Montenegro;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;38,810126582;36792;948;951
+RS;São Jerônimo;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;33,444444444;602;18;19
+RS;Porto Alegre;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;36,351094196;38205;1051;1051
+RS;Osório;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;58,777562863;30388;517;517
+RS;Camaquã;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;28,771929825;3280;114;114
+RS;Campanha Ocidental;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;30,8;3080;100;100
+PR;Paranaguá;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;38;12160;320;320
+GO+DF;Ceres;Quantidade Produzida;Q2;2016;BRASIL;BRASIL;Cana-de-Açúcar;66,378963386;6979748;105150;105150
+MS;Iguatemi;Quantidade Produzida;Q3;2016;BRASIL;BRASIL;Cana-de-Açúcar;89,897189303;11469443;127584;127584
+AL;Palmeira dos Índios;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;56;1288;23;23
+RS;Guaporé;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;26,938461538;8755;325;330
+PR;Assaí;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;90,755539412;249850;2753;2753
+RS;Carazinho;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;32,020373514;18860;589;589
+RS;Santo Ângelo;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;37,361581921;33065;885;885
+RS;Soledade;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;26,478260870;609;23;23
+PR;Apucarana;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;83,070307167;243396;2930;2930
+PR;Guarapuava;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;43,878048780;1799;41;129
+PR;Porecatu;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;76,787452525;1637646;21327;21327
+PR;Telêmaco Borba;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;83,333333333;25000;300;300
+PR;Toledo;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;60,193965517;69825;1160;1160
+PR;Umuarama;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;62,577345051;5675202;90691;90691
+PR;União da Vitória;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;35;8365;239;239
+SC;Itajaí;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;22;440;20;20
+SC;São Miguel do Oeste;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;68,693877551;84150;1225;1225
+PR;Astorga;Quantidade Produzida;Q2;2016;BRASIL;BRASIL;Cana-de-Açúcar;74,856844349;8848603;118207;124394
+PR;Floraí;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;68,880506246;419069;6084;6084
+PR;Ivaiporã;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;76,749953575;826597;10770;10770
+PR;Foz do Iguaçu;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;56,868327402;79900;1405;1405
+PR;Capanema;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;59,794238683;14530;243;243
+PR;Pitanga;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;54;216;4;4
+PR;Cerro Azul;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;42;18060;430;430
+PR;Curitiba;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;38;2660;70;70
+SC;Concórdia;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;43,948275862;25490;580;580
+SC;Canoinhas;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;20;40;2;2
+SC;Rio do Sul;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;60,437788018;13115;217;217
+SC;Blumenau;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;39,686897881;41195;1038;1038
+SC;Florianópolis;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;33,859649123;38600;1140;1140
+SC;Tabuleiro;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;56;4200;75;75
+SP;Limeira;Quantidade Produzida;Q2;2016;BRASIL;BRASIL;Cana-de-Açúcar;85,311928233;7693515;90181;90181
+SP;Novo Horizonte;Quantidade Produzida;Q2;2016;BRASIL;BRASIL;Cana-de-Açúcar;86,629449986;9466000;109270;109270
+SP;Andradina;Quantidade Produzida;Q3;2016;BRASIL;BRASIL;Cana-de-Açúcar;76,243107744;14964311;196271;196271
+SP;Presidente Prudente;Quantidade Produzida;Q4;2016;BRASIL;BRASIL;Cana-de-Açúcar;75,702592429;26903263;355381;355381
+GO+DF;São Miguel do Araguaia;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;45;675;15;15
+GO+DF;Porangatu;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;59,922752809;511980;8544;8544
+GO+DF;Goiânia;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;83,493150685;30475;365;365
+GO+DF;Catalão;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;78,444707274;397950;5073;5073
+GO+DF;Brasília;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;70;20720;296;296
+MS;Alto Taquari;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;65,954887218;859656;13034;13034
+MS;Três Lagoas;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;57,278075710;363143;6340;6340
+MT;Jauru;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;60,651822138;892067;14708;14708
+MS;Bodoquena;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;58,214285714;16300;280;280
+GO+DF;Sudoeste de Goiás;Quantidade Produzida;Q3;2016;BRASIL;BRASIL;Cana-de-Açúcar;74,472033578;17512620;235157;235157
+GO+DF;Quirinópolis;Quantidade Produzida;Q3;2016;BRASIL;BRASIL;Cana-de-Açúcar;74,557216561;12687998;170178;170178
+MS;Dourados;Quantidade Produzida;Q4;2016;BRASIL;BRASIL;Cana-de-Açúcar;81,372668604;27071629;332687;332687
+ES;Alegre;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;49,333333333;3700;75;75
+ES;Barra de São Francisco;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;53,333333333;2400;45;45
+ES;Nova Venécia;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;41,290322581;64000;1550;1550
+ES;Santa Teresa;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;51,848484848;35931;693;693
+MG;Divinópolis;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;67,866108787;48660;717;717
+MG;Formiga;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;73,501072961;205509;2796;2796
+MG;Guanhães;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;67,290286976;243860;3624;3624
+MG;Ipatinga;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;62,197231834;35950;578;578
+MG;Itaguara;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;59,189895470;67950;1148;1148
+MG;Ouro Preto;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;60;44040;734;734
+MG;Piuí;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;71,974728052;1310084;18202;18202
+RJ;Bacia de São João;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;32;2048;64;64
+RJ;Barra do Piraí;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;48,108108108;5340;111;111
+RJ;Lagos;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;47,404865171;251388;5303;5303
+RJ;Três Rios;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;40,176470588;2049;51;51
+MG;Poços de Caldas;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;81,779918864;161270;1972;1972
+SP;Amparo;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;64,910807975;123720;1906;1906
+SP;Bragança Paulista;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;62,567567568;23150;370;370
+SP;Campinas;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;77,161184017;3933600;50979;50979
+SP;Campos do Jordão;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;60;600;10;10
+SP;Itapetininga;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;79,191616766;1322500;16700;16700
+SP;Paraibuna/Paraitinga;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;52,592592593;4260;81;81
+SP;Pirassununga;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;84,332157931;4735335;56151;56151
+SP;Registro;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;33;825;25;25
+PR;Cornélio Procópio;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;92,208118835;2346420;25447;25447
+RS;Santa Rosa;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;46,715909091;41110;880;880
+RS;Erechim;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;52,277409860;71045;1359;1359
+RS;Ijuí;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;54,315245478;21020;387;387
+RS;Vacaria;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;22,222222222;200;9;9
+RS;Santa Maria;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;38,114856429;30530;801;801
+PR;Goioerê;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;75,575563230;459575;6081;6081
+PR;Campo Mourão;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;73,382860232;1357216;18495;18495
+PR;Faxinal;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;79,029664897;863162;10922;10922
+PR;Ibaiti;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;69,409395973;517100;7450;7450
+PR;Cascavel;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;56,445360825;27376;485;485
+PR;Palmas;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;39,666666667;1190;30;30
+PR;Prudentópolis;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;36,262626263;3590;99;99
+PR;São Mateus do Sul;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;35;315;9;9
+SC;Xanxerê;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;56,166666667;10110;180;180
+SC;Ituporanga;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;41,538461538;1620;39;39
+SC;Criciúma;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;46,649350649;17960;385;385
+PR;Cianorte;Quantidade Produzida;Q2;2016;BRASIL;BRASIL;Cana-de-Açúcar;65,336907227;7477221;114441;114441
+AL;Arapiraca;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;54,722510883;389679;7121;7121
+AL;Penedo;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;65,020671998;2057059;31637;31637
+AL;Serrana dos Quilombos;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;62,442474264;1376919;22051;22051
+BA;Jacobina;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;38,847826087;1787;46;46
+PB;Cajazeiras;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;38,666666667;2900;75;95
+PB;João Pessoa;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;55;1122000;20400;20400
+PB;Litoral Sul;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;62,167774086;1871250;30100;30100
+PE;Araripina;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;15;105;7;7
+PE;Mata Meridional Pernambucana;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;49,757658893;5441000;109350;109350
+PE;Petrolina;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;37,664233577;5160;137;157
+PE;Recife;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;52,75;1055000;20000;20000
+PE;Vitória de Santo Antão;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;44,992279979;524520;11658;12658
+RN;Litoral Sul;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;57,302488898;2774300;48415;48415
+SE;Cotinguiba;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;38,828574870;322316;8301;10466
+SE;Propriá;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;38,212771392;149603;3915;3915
+AL;São Miguel dos Campos;Quantidade Produzida;Q2;2016;BRASIL;BRASIL;Cana-de-Açúcar;57,936354861;6302027;108775;108775
+MG;Unaí;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;85,891364903;493360;5744;5744
+MG;Januária;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;42,407866761;239350;5644;5644
+MG;Pedra Azul;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;45,324074074;29370;648;648
+MG;Patos de Minas;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;83,844131455;89294;1065;1065
+MG;Três Marias;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;69,831122201;1147465;16432;16432
+MG;Bom Despacho;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;69,260504517;1847801;26679;26679
+MG;Pará de Minas;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;58,442105263;16656;285;285
+MG;Itabira;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;59,323173936;112892;1903;1903
+MG;Peçanha;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;64,053811659;142840;2230;2230
+MG;Caratinga;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;56,326530612;71760;1274;1274
+MG;Andrelândia;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;63,496031746;32002;504;504
+MG;São João Del Rei;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;74,211122554;72059;971;971
+MG;Barbacena;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;52,832832833;52780;999;999
+MG;Ponte Nova;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;68,051500682;798108;11728;11728
+MG;Manhuaçu;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;47,333333333;8520;180;180
+MG;Muriaé;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;53,966417910;72315;1340;1340
+MG;Juiz de Fora;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;68,109876543;55169;810;820
+MG;São Lourenço;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;50,822147651;15145;298;298
+MG;Itajubá;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;58,947368421;25760;437;437
+SP;Botucatu;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;69,980423414;5004580;71514;71514
+GO+DF;Rio Vermelho;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;60;900;15;15
+GO+DF;Aragarças;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;36,244723737;152844;4217;4217
+GO+DF;Anápolis;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;84,457139328;1367530;16192;16192
+GO+DF;Iporá;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;60;50940;849;849
+GO+DF;Vão do Paranã;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;35,471175166;63990;1804;1804
+MS;Paranaíba;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;55,933774291;2046449;36587;36587
+MT;Alto Guaporé;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;40;1000;25;25
+MT;Cuiabá;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;25,127118644;29650;1180;1190
+MT;Alto Pantanal;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;66,878507046;526802;7877;7892
+MT;Primavera do Leste;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;40;1000;25;25
+MT;Rondonópolis;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;57,569754350;1124913;19540;19540
+MT;Arinos;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;52,925349428;333218;6296;6296
+MT;Aripuanã;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;48,8;61000;1250;1250
+MS;Nova Andradina;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;79,152215991;3189676;40298;40298
+BA;Catu;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;39,985409307;260345;6511;6511
+BA;Santo Antônio de Jesus;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;57,002414001;188906;3314;3314
+CE;Baixo Curu;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;67,309311224;105541;1568;1568
+CE;Canindé;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;12,961538462;337;26;26
+CE;Baturité;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;34,156661786;23329;683;683
+CE;Sertão de Quixeramobim;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;10;20;2;2
+CE;Serra do Pereiro;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;14;70;5;5
+CE;Caririaçu;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;38,581395349;1659;43;43
+PI;São Raimundo Nonato;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;36,923076923;480;13;13
+PI;Chapadas do Extremo Sul Piauiense;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;35;350;10;10
+PI;Picos;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;17,658333333;2119;120;120
+MA;Litoral Ocidental Maranhense;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;46,128205128;3598;78;78
+MA;Aglomeração Urbana de São Luís;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;20;20;1;1
+MA;Itapecuru Mirim;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;22,071428571;618;28;28
+MA;Presidente Dutra;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;40,4;1616;40;40
+MA;Porto Franco;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;55,568593009;316352;5693;5693
+PI;Teresina;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;50,072237624;632162;12625;12625
+PI;Floriano;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;37,727272727;415;11;11
+PA;Santarém;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;22,444444444;2020;90;90
+PA;Belém;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;40;200;5;5
+PA;Altamira;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;60;2520;42;42
+AC;Tarauacá;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;30,829059829;3607;117;117
+AC;Rio Branco;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;39,114104003;104552;2673;2673
+AC;Brasiléia;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;31,111111111;2240;72;72
+AM;Alto Solimões;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;40,555555556;365;9;9
+AM;Itacoatiara;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;38,333333333;115;3;3
+RR;Caracaraí;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;3,625;29;8;8
+TO;Araguaína;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;42,221105528;16804;398;398
+MG;Janaúba;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;115,688438215;1163710;10059;10078
+MG;Grão Mogol;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;30,292682927;16146;533;533
+MG;Araxá;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;81,857231943;4463020;54522;54522
+MG;Curvelo;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;57,837837838;149800;2590;2590
+MG;Mantena;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;71,305785124;34512;484;484
+BA;Barreiras;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;39,886304910;77180;1935;1935
+BA;Cotegipe;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;44,358727225;335973;7574;7574
+BA;Santa Maria da Vitória;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;54,185228605;231100;4265;4265
+BA;Feira de Santana;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;44;880;20;20
+PB;Curimataú Oriental;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;45;900;20;20
+PB;Brejo Paraibano;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;41,934414991;183505;4376;4376
+PE;Itamaracá;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;54,524381789;471854;8654;8654
+RN;Umarizal;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;29,666666667;445;15;31
+SE;Japaratuba;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;43,196818727;719659;16660;16660
+SE;Aracaju;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;47,225587594;194900;4127;4127
+ES;Colatina;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;51,858108108;7675;148;148
+ES;São Mateus;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;31,056595471;917505;29543;29543
+ES;Linhares;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;57,214629936;795455;13903;13903
+ES;Guarapari;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;36,936170213;8680;235;235
+ES;Itapemirim;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;36,25;319000;8800;8800
+MG;Sete Lagoas;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;66,171538093;138100;2087;2087
+MG;Belo Horizonte;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;60,106761566;33780;562;562
+MG;Governador Valadares;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;63,953982301;72268;1130;1130
+MG;Aimorés;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;50,748299320;14920;294;294
+MG;Oliveira;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;55,946509519;61709;1103;1103
+RJ;Santo Antônio de Pádua;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;59,672131148;36400;610;610
+RJ;Campos dos Goytacazes;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;43,739669421;2117000;48400;48400
+RJ;Nova Friburgo;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;40;800;20;20
+RJ;Vassouras;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;40,333333333;3025;75;75
+RJ;Macacu-Caceribu;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;32;1280;40;40
+RJ;Itaguaí;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;18,071428571;3036;168;168
+MG;Passos;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;80,815101454;1628990;20157;20157
+MG;São Sebastião do Paraíso;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;83,399730216;1669329;20016;20016
+MG;Pouso Alegre;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;68,888888889;6820;99;99
+SP;Jales;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;86,438594778;5309750;61428;61428
+SP;Jundiaí;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;75;1950;26;26
+SP;São José dos Campos;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;97,619047619;205000;2100;2100
+SP;Bananal;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;63,571428571;9790;154;154
+SP;Catanduva;Quantidade Produzida;Q2;2016;BRASIL;BRASIL;Cana-de-Açúcar;85,516883317;11118050;130010;130010
+SP;Adamantina;Quantidade Produzida;Q2;2016;BRASIL;BRASIL;Cana-de-Açúcar;73,490854573;6127300;83375;83375
+SP;Birigui;Quantidade Produzida;Q3;2016;BRASIL;BRASIL;Cana-de-Açúcar;77,895685606;11325799;145397;145397
+SP;São José do Rio Preto;Quantidade Produzida;Q4;2016;BRASIL;BRASIL;Cana-de-Açúcar;83,087970809;39758508;478511;478531
+SP;São Joaquim da Barra;Quantidade Produzida;Q4;2016;BRASIL;BRASIL;Cana-de-Açúcar;83,257818138;27688220;332560;332560
+GO+DF;Chapada dos Veadeiros;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;35,7;21063;590;590
+GO+DF;Anicuns;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;83,066381876;1730605;20834;20834
+MT;Canarana;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;21,678082192;9495;438;438
+MT;Médio Araguaia;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;25;1875;75;75
+MT;Alto Teles Pires;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;28,888888889;1300;45;165
+MT;Rosário Oeste;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;51,795918367;25380;490;530
+MT;Alto Araguaia;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;73,985539588;4144300;56015;56015
+MT;Alta Floresta;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;20,333333333;305;15;15
+MT;Parecis;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;71,900209627;3635706;50566;51766
+BA;Ribeira do Pombal;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;40;2000;50;50
+BA;Guanambi;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;49,351851852;53300;1080;1080
+BA;Brumado;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;48,050370370;32434;675;675
+BA;Valença;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;38,76;23256;600;600
+CE;Coreaú;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;38,818181818;427;11;11
+CE;Santa Quitéria;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;23,338582677;5928;254;254
+CE;Fortaleza;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;31,157590759;37763;1212;1212
+CE;Pacajus;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;32,681818182;7190;220;220
+CE;Sertão de Cratéus;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;20,159420290;1391;69;69
+CE;Sertão de Senador Pompeu;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;22,990566038;4874;212;212
+CE;Litoral de Aracati;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;69,048148148;18643;270;270
+CE;Várzea Alegre;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;32,384615385;421;13;13
+CE;Chapada do Araripe;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;20;60;3;3
+CE;Cariri;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;39,039877301;12727;326;326
+RN;Médio Oeste;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;44;44;1;1
+RN;Serra de São Miguel;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;28,6;858;30;72
+RN;Pau dos Ferros;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;26,666666667;240;9;18
+CE;Litoral de Camocim e Acaraú;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;20;600;30;30
+MA;Gurupi;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;39,4;197;5;5
+MA;Codó;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;58,501756852;83248;1423;1423
+MA;Coelho Neto;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;44,832605531;554400;12366;12366
+MA;Caxias;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;55,214412496;155539;2817;2817
+MA;Chapadas do Alto Itapecuru;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;34,350303030;28339;825;825
+MA;Chapadas das Mangabeiras;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;63,728782767;1227735;19265;19265
+PI;Campo Maior;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;30,551181102;15520;508;508
+PI;Médio Parnaíba Piauiense;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;31,684615385;8238;260;260
+PA;Óbidos;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;31,467741935;1951;62;62
+PA;Almeirim;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;46,533333333;698;15;15
+PA;Portel;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;47;188;4;4
+PA;Bragantina;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;20;120;6;6
+PA;Cametá;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;30,909090909;3400;110;110
+AM;Rio Preto da Eva;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;63,356870788;216237;3413;3413
+RO;Ariquemes;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;66,877049180;8159;122;123
+RO;Ji-Paraná;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;68,038363171;26603;391;406
+RO;Vilhena;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;66,293478261;12198;184;185
+RO;Colorado do Oeste;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;71,218992248;73498;1032;1033
+RR;Boa Vista;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;4,538461538;472;104;109
+RR;Sudeste de Roraima;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;22,439252336;2401;107;107
+PA;Conceição do Araguaia;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;39,637583893;5906;149;149
+MS;Baixo Pantanal;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;40;1600;40;40
+MS;Aquidauana;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;49,109589041;3585;73;73
+AL;Litoral Norte Alagoano;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;66,096592398;504317;7630;7630
+BA;Juazeiro;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;85,458280313;1410318;16503;16503
+BA;Bom Jesus da Lapa;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;40,330677291;50615;1255;1255
+BA;Senhor do Bonfim;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;45;2115;47;47
+BA;Irecê;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;37,926829268;15550;410;410
+BA;Itaberaba;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;43,6;2180;50;50
+PB;Itabaiana;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;55;13200;240;240
+PB;Litoral Norte;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;54,054283291;1911900;35370;35370
+PB;Sapé;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;56,756601607;1730225;30485;30485
+PE;Suape;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;54,434782609;626000;11500;11500
+SE;Nossa Senhora das Dores;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;34,149627624;100878;2954;3544
+SE;Agreste de Itabaiana;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;48;37296;777;777
+ES;Montanha;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;41,271402550;657082;15921;15921
+RJ;Santa Maria Madalena;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;40;80;2;2
+SP;Fernandópolis;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;74,466630060;4475370;60099;60099
+SP;Avaré;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;74,128404669;4762750;64250;64250
+SP;Rio Claro;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;74,665298413;5020420;67239;67239
+SP;Moji Mirim;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;75,144155660;2645450;35205;35205
+SP;Tupã;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;78,240787769;4528968;57885;57885
+SP;Marília;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;76,831040077;2557398;33286;33286
+SP;Sorocaba;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;79,732334047;1712810;21482;21482
+SP;Guaratinguetá;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;60,693396226;12867;212;212
+SP;Votuporanga;Quantidade Produzida;Q2;2016;BRASIL;BRASIL;Cana-de-Açúcar;79,438609110;6737109;84809;84809
+SP;Nhandeara;Quantidade Produzida;Q2;2016;BRASIL;BRASIL;Cana-de-Açúcar;76,232780814;6011031;78851;78851
+SP;Ituverava;Quantidade Produzida;Q2;2016;BRASIL;BRASIL;Cana-de-Açúcar;81,573802375;9563060;117232;117232
+SP;Franca;Quantidade Produzida;Q2;2016;BRASIL;BRASIL;Cana-de-Açúcar;79,584676502;5949830;74761;74761
+SP;Lins;Quantidade Produzida;Q2;2016;BRASIL;BRASIL;Cana-de-Açúcar;80,085435537;9628752;120231;120231
+SP;São Carlos;Quantidade Produzida;Q2;2016;BRASIL;BRASIL;Cana-de-Açúcar;79,845766974;9525600;119300;121300
+SP;Ourinhos;Quantidade Produzida;Q2;2016;BRASIL;BRASIL;Cana-de-Açúcar;79,245213936;8895513;112253;112253
+AL;Serrana do Sertão Alagoano;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;38,046153846;2473;65;65
+BA;Alagoinhas;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;29;290;10;10
+BA;Salvador;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;48,066985646;10046;209;209
+BA;Boquira;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;42,311538462;11001;260;260
+BA;Seabra;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;43,066167291;172480;4005;4005
+BA;Jequié;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;41,543977055;43455;1046;1046
+BA;Livramento do Brumado;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;53,842962963;36344;675;675
+BA;Itapetinga;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;38,973827160;78922;2025;2025
+CE;Ibiapaba;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;38,239520958;255440;6680;6680
+CE;Meruoca;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;31,588235294;537;17;17
+CE;Itapipoca;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;30,451612903;5664;186;186
+CE;Uruburetama;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;27,157894737;516;19;19
+CE;Cascavel;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;46,8;79560;1700;1700
+CE;Médio Jaguaribe;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;22;242;11;11
+CE;Barro;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;33,571428571;1175;35;35
+PB;Piancó;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;38,333333333;575;15;15
+PB;Serra do Teixeira;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;36,666666667;1100;30;30
+PB;Guarabira;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;45,477031802;64350;1415;1415
+PE;Médio Capibaribe;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;56,073298429;85680;1528;1528
+PE;Brejo Pernambucano;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;42,084468665;772250;18350;18350
+PE;Mata Setentrional Pernambucana;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;57,453931791;4391836;76441;76441
+PI;Valença do Piauí;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;9,458221024;3509;371;371
+RN;Seridó Ocidental;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;31,5;63;2;2
+RN;Agreste Potiguar;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;61,646153846;52091;845;845
+RN;Litoral Nordeste;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;73,636363636;162000;2200;2200
+MA;Pindaré;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;41,466666667;622;15;15
+MA;Imperatriz;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;62,177736202;66468;1069;1069
+MA;Médio Mearim;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;40,319693095;15765;391;391
+PI;Baixo Parnaíba Piauiense;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;37,980652963;31410;827;827
+PI;Litoral Piauiense;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;43,333333333;1820;42;42
+PI;Alto Parnaíba Piauiense;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;51,752577320;5020;97;97
+PI;Alto Médio Gurguéia;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;55,337690632;25400;459;459
+PA;Itaituba;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;36,764705882;2500;68;68
+PA;São Félix do Xingu;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;40;2400;60;60
+PA;Redenção;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;26,926530612;6597;245;245
+RR;Nordeste de Roraima;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;4,818181818;106;22;22
+TO;Porto Nacional;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;79,950526741;2572728;32179;32179
+TO;Dianópolis;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;38,585651537;26354;683;683
+GO+DF;Entorno de Brasília;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;77,809557439;2644280;33984;33984
+MS;Campo Grande;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;61,119542475;876332;14338;14338
+MT;Alto Paraguai;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;69,090909091;76000;1100;1100
+MT;Paranatinga;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;23,125;1110;48;48
+MT;Tesouro;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;24,834024896;5985;241;241
+MT;Colíder;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;20;800;40;40
+MT;Sinop;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;16,666666667;1250;75;75
+MT;Norte Araguaia;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;20;400;20;20
+AL;Maceió;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;65,895841557;2838068;43069;43069
+AL;Mata Alagoana;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;60,377714474;5510674;91270;91270
+BA;Barra;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;29,679012346;36060;1215;1215
+AC;Cruzeiro do Sul;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;31,881118881;4559;143;143
+AM;Juruá;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;40,639175258;3942;97;97
+AM;Rio Negro;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;48;48;1;1
+RO;Guajará-Mirim;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;71;1136;16;31
+ES;Afonso Cláudio;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;40,389473684;3837;95;95
+ES;Cachoeiro de Itapemirim;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;42,558139535;18300;430;430
+ES;Vitória;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;40,728813559;12015;295;295
+RJ;Baía da Ilha Grande;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;12,210526316;1160;95;95
+RJ;Itaperuna;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;60;32700;545;545
+RJ;Macaé;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;39,545454545;13050;330;330
+RJ;Rio de Janeiro;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;32,705660377;17334;530;530
+RJ;Vale do Paraíba Fluminense;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;64,990610329;27686;426;426
+SP;Auriflama;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;67,599954703;2686287;39738;39738
+SP;Capão Bonito;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;64,700854701;7570;117;117
+SP;Itapeva;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;77,490636704;413800;5340;5340
+SP;São Paulo;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;20;200;10;10
+SP;Tatuí;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;78,059739361;3384280;43355;43355
+PR;Jacarezinho;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;103,600425080;4874400;47050;47050
+PR;Londrina;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;70,218665638;182077;2593;2593
+RS;Cachoeira do Sul;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;34,370370370;13920;405;405
+RS;Caxias do Sul;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;36,926829268;7570;205;205
+RS;Cerro Largo;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;53,138528139;85925;1617;1617
+RS;Cruz Alta;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;63,805914972;34519;541;541
+RS;Sananduva;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;71,953488372;15470;215;215
+PR;Francisco Beltrão;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;56,301775148;28545;507;507
+PR;Maringá;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;76,197698990;649052;8518;8518
+PR;Pato Branco;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;48,695652174;16800;345;345
+PR;Wenceslau Braz;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;88,053691275;131200;1490;1490
+SC;Chapecó;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;54,144265233;60425;1116;1116
+SC;Joinville;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;47,563752277;52225;1098;1098
+SC;Tijucas;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;35;420;12;12
+SC;Tubarão;Quantidade Produzida;Q1;2016;BRASIL;BRASIL;Cana-de-Açúcar;47,614770459;23855;501;501
+MT;Tangará da Serra;Quantidade Produzida;Q2;2016;BRASIL;BRASIL;Cana-de-Açúcar;71,717336132;8336208;116237;118737
+SP;Batatais;Quantidade Produzida;Q2;2016;BRASIL;BRASIL;Cana-de-Açúcar;77,628418043;8661546;111577;111577
+SP;Dracena;Quantidade Produzida;Q2;2016;BRASIL;BRASIL;Cana-de-Açúcar;73,315940313;7060545;96303;96303
+SP;Piracicaba;Quantidade Produzida;Q2;2016;BRASIL;BRASIL;Cana-de-Açúcar;67,842780126;10142767;149504;149504
+SP;São João da Boa Vista;Quantidade Produzida;Q2;2016;BRASIL;BRASIL;Cana-de-Açúcar;88,609727034;8031054;90634;90634
+PR;Paranavaí;Quantidade Produzida;Q2;2016;BRASIL;BRASIL;Cana-de-Açúcar;69,687585458;10397109;149196;149196
+SP;Araçatuba;Quantidade Produzida;Q3;2016;BRASIL;BRASIL;Cana-de-Açúcar;74,229797476;13385414;180324;180324
+SP;Assis;Quantidade Produzida;Q3;2016;BRASIL;BRASIL;Cana-de-Açúcar;73,443952631;18351367;249869;249869
+SP;Barretos;Quantidade Produzida;Q3;2016;BRASIL;BRASIL;Cana-de-Açúcar;86,053639847;11230000;130500;130500
+SP;Jaboticabal;Quantidade Produzida;Q4;2016;BRASIL;BRASIL;Cana-de-Açúcar;83,017229448;23393010;281785;281785
